@@ -1093,8 +1093,7 @@ a {
     }
 
     .footer{
-        padding-top: 190%;
-        padding-right: 7%;
+        visibility: hidden;
     }
 }
 
