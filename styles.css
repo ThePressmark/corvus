@@ -1089,11 +1089,11 @@ a {
 
 
     #wrap{
-        padding-top: 300%;
+        padding-top: 350%;
     }
 
     .footer{
-        padding-top: 70%;
+        padding-top: 110%;
         padding-right: 7%;
     }
 }
@@ -1246,7 +1246,7 @@ a {
 /* ============= Responsive Ipad ==================== */
 @media (max-width: 992px) {
  .creative-cards .container .row .card-column {
-    padding-left: 20%;
+    padding-left: 10%;
     align-items: center;
     flex: 0 0 auto;
     width: 80%;
